@@ -1,0 +1,15 @@
+2025-06-20 10:01:23 INFO  - Application started
+2025-06-20 10:01:25 DEBUG - Loading configuration from config.yaml
+2025-06-20 10:01:30 INFO  - Connecting to database
+2025-06-20 10:01:35 ERROR - Failed to connect to database
+2025-06-20 10:01:40 INFO  - Retrying connection
+2025-06-20 10:01:45 WARN  - Connection is slow
+2025-06-20 10:01:50 ERROR - Connection timeout
+2025-06-20 10:01:55 INFO  - Connected to database
+2025-06-20 10:02:00 DEBUG - Running migrations
+2025-06-20 10:02:05 INFO  - Migrations complete
+2025-06-20 10:02:10 INFO  - Application is ready
+2025-06-20 10:03:00 ERROR - Unexpected null value in user data
+2025-06-20 10:03:30 INFO  - Scheduled job started
+2025-06-20 10:03:35 INFO  - Job completed successfully
+

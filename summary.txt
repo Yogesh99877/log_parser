@@ -1,0 +1,2 @@
+Total lines: 15
+Error lines: 3
